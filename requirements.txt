@@ -1,0 +1,12 @@
+torch
+torchvision
+torchaudio
+gymnasium
+stable-baselines3[torch]
+sb3-contrib
+pyboy
+Pillow
+tqdm
+opencv-python
+tensorboard
+numpy<2.0,>=1.20

@@ -1,0 +1,16 @@
+{
+  "watch_list": [
+    { "name": "Map ID", "address": "0xD35D" },
+    { "name": "Player Y (Map)", "address": "0xD360" },
+    { "name": "Player X (Map)", "address": "0xD361" },
+    { "name": "Script State", "address": "0xC506" },
+    { "name": "Battle Type", "address": "0xD05A" },
+    { "name": "Current Menu", "address": "0xD057" },
+    { "name": "Menu Cursor", "address": "0xCC25" },
+    { "name": "Nurse Joy Script", "address": "0xC660" },
+    { "name": "Money 1 (BCD)", "address": "0xD347" },
+    { "name": "Money 2 (BCD)", "address": "0xD348" },
+    { "name": "Money 3 (BCD)", "address": "0xD349" },
+    { "name": "Badges", "address": "0xD356" }
+  ]
+}
